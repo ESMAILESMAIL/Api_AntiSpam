@@ -1,8 +1,8 @@
 package.path = package.path..';.luarocks/share/lua/5.2/?.lua;.luarocks/share/lua/5.2/?/init.lua'
 package.cpath = package.cpath..';.luarocks/lib/lua/5.2/?.so'
-bot_token = "TOKEN"
+bot_token = "386756999:AAGtI5kCFo_q1TP3l9ypJLRtAPMCWS6RbMQ"
 send_api = "https://api.telegram.org/bot"..bot_token
-sudo_id = 157059515
+sudo_id = 209270188
 http = require('socket.http')
 https = require('ssl.https')
 URL = require('socket.url')
@@ -15,7 +15,7 @@ JSON = (loadfile "./libs/dkjson.lua")()
 serpent = (loadfile "./libs/serpent.lua")()
 require('./bot/methods')
 require('./bot/utils')
--- @BeyondTeam
+-- @IranDev_Team
 function bot_run()
 	bot = nil
 	while not bot do
@@ -171,7 +171,7 @@ function create_config( )
 	io.write('\n\27[1;33m>> Input your Telegram ID for set Sudo :\27[0;39;49m')
 	local SUDO = tonumber(io.read())
 if not tostring(SUDO):match('%d+') then
-    SUDO = 157059515
+    SUDO = 209270188
   end
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
@@ -182,30 +182,30 @@ if not tostring(SUDO):match('%d+') then
     "tools",
     "banhammer"
     },
-    sudo_users = {157059515, SUDO},--Sudo users
+    sudo_users = {209270188, SUDO},--Sudo users
     master_id = SUDO, 
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[*》Beyond Manager V1.0*
-`》An advanced administration bot based on` *BDMessenger*
+    info_text = [[*》E.MK ANTI SPAM Manager V1.0*
+`》An advanced administration bot based on` *E.MK MANAGET*
 
-》[Beyond Manager](https://github.com/BeyondTeam/BDManager)
+》[E.MK Manager](https://github.com/ESMAILESMAIL/API_AntiSpam)
 
 *》Admins :*
-*》Founder & Developer :* [SoLiD](Telegram.Me/SoLiD)
-_》Developer & Sponser :_ [MAKAN](Telegram.Me/MAKAN)
-_》Developer :_ [ToOfan](Telegram.Me/ToOfan)
-_》Developer :_ [TheNIS](Telegram.Me/bypa3r)
+*》Founder & Developer :* [EsMailMa](Telegram.Me/EsMailMa)
+_》Developer & Sponser :_ [EsMailMa](Telegram.Me/EsMailMa)
+_》Developer :_ [EsMailMa](Telegram.Me/EsMailMa)
+_》Developer :_ [EsMailMa](Telegram.Me/EsMailMa)
 
 *》Special thanks to :*
-`Beyond Team Members`
+`Iran Team Members`
 
 *》Our channel :*
-》[BeyondTeam](Telegram.Me/BeyondTeam)
+》[Iran Team](Telegram.Me/IranDev_Team)
 
 *》Our Site :*
-[Beyond Team Forum](beyond-dev.ir)
+[Iran Team](iran-team.ml)
 ]],
   }
   serialize_to_file(config, './data/config.lua')
