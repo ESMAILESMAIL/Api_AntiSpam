@@ -16,8 +16,8 @@ An advanced administration bot based on E.MK AntiSpam
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDManager.git
-cd BDManager
+git clone https://github.com/ESMAILESMAIL/API_AntiSpam.git
+cd API_AntiSpam
 chmod +x beyond.sh
 ./beyond.sh install
 ./beyond.sh 
