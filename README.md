@@ -38,28 +38,28 @@ cd $HOME && git clone https://github.com/ESMAILESMAIL/API_AntiSpam.git && cd API
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/EsMailMa)
+More information [IranTeam Admin](https://t.me/EsMailMa)
 
 # Special thanks to
 
-`Beyond Team Members`
+`Iran Team Members`
 
 * * *
 
 # Developers!
 
-[SoLiD](https://github.com/solid021) ([Telegram](https://t.me/SoLiD))
+[EsMailMa](https://github.com/ESMAILESMAIL) ([Telegram](https://t.me/EsMailMa))
 
-[MAKAN](https://github.com/makanj) ([Telegram](https://t.me/MAKAN))
+[EsMailMa](https://github.com/ESMAILESMAIL) ([Telegram](https://t.me/EsMailMa))
 
-[ToOfan](https://github.com/To0fan) ([Telegram](https://t.me/ToOfan))
+[EsMailMa](https://github.com/ESMAILESMAIL) ([Telegram](https://t.me/EsMailMa))
 
-[TheNIS](https://t.me/bypa3r)
+[EsMailMa](https://t.me/EsMailMa)
 
 ### Our Telegram Channel:
 
-[@BeyondTeam](https://t.me/BeyondTeam)
+[@IranDev_Team](https://t.me/IranDev_Team)
 
 ### Our Forum:
 
-[Beyond Team Forum](https://Beyond-Dev.ir)
+[Iran Team Site](https://Iran-Team.Ml)
