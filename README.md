@@ -1,8 +1,8 @@
-# [BDManager v1.0](https://t.me/BeyondTeam)
-An advanced administration bot based on BDMessenger
+# [E.MK Anti Spam v1.0](https://t.me/IranDev_Team)
+An advanced administration bot based on E.MK AntiSpam
 
 [![Bot API](http://img.shields.io/badge/Bot%20API-v3.2-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/BeyondTeam](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/BeyondTeam)
+[![https://t.me/IranDev_Team](https://img.shields.io/badge/💬%20Telegram-BeyondTeam-00aced.svg)](https://t.me/IranDev_Team)
 
 * * *
 
@@ -32,13 +32,13 @@ tmux
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDManager.git && cd BDManager && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/ESMAILESMAIL/API_AntiSpam.git && cd API_AntiSpam && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
 
 # Support and Development
 
-More information [Beyond Global Chat](https://t.me/joinchat/AAAAAEGaKOxC8K6cJ3bCcw)
+More information [Beyond Global Chat](https://t.me/EsMailMa)
 
 # Special thanks to
 
